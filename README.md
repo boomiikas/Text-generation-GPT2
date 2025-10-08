@@ -36,16 +36,19 @@ Try the app live here (if deployed on Hugging Face Spaces):
 ```bash
 git clone https://github.com/USERNAME/Text-generation-GPT2.git
 cd Text-generation-GPT2
+```
 
 2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 3.Run the app:
 
 ```bash
 python app.py
+```
 
 4.Open the Gradio interface in your browser and start generating text.
 
