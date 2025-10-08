@@ -50,10 +50,3 @@ python app.py
 4.Open the Gradio interface in your browser and start generating text.
 
 ---
-
-## Files
-
-app.py – Main Gradio application script
-requirements.txt – Required Python packages
-
----
