@@ -2,7 +2,7 @@
 
 This is a **text generation web app** using OpenAI's **GPT-2** model implemented in **PyTorch**, deployed with **Gradio**.  
 You can input a sentence, and the model will generate coherent text continuations using beam search.
-
+ [**COLAB LINK**](https://colab.research.google.com/drive/1D7PixHvd5pFWbo_6QLQczYbDyQzjxj2L?usp=sharing)
 ---
 
 ## Features
